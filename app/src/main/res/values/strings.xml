@@ -4,6 +4,8 @@
     <string name="seekbar_x_label">X</string>
     <string name="seekbar_y_label">Y</string>
     <string name="seekbar_z_label">Z</string>
+    <string name="button_roll">roll</string>
+    <string name="button_stop">stop</string>
     <string name="menu_cube_label">Cube</string>
     <string name="menu_pyramid_label">Pyramid</string>
 </resources>
